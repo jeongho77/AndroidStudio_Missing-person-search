@@ -29,7 +29,12 @@
 # 예방수칙
 ![예빵수친](https://github.com/jeongho77/android_FinalPjt/assets/115057094/b0c83468-a25f-4ff6-b0aa-6810523a00ae)
 
-# 오픈소스 : 경찰청 실종자 정보 조회 템플릿 https://www.safe182.go.kr/home/api/guide4.do
+# 오픈소스
+경찰청 실종자 정보 조회 템플릿 https://www.safe182.go.kr/home/api/guide4.do
+[Android] 안드로이드 액티비티간의 데이터 전달 (intent 사용법) - 1 :: Ailyn의 기술 블로그 (tistory.com) – 데이터 전달하기Firebase 사용법 - 초간단 Firebase 사용해 보기 (richwind.co.kr)-파이어베이스 사용법
+[Android/Kotiln] style.xml(스타일 및 테마)를 활용하여 속성 설정하기 — yellowgreenblue (tistory.com) – 디자인 활용법
+![image](https://github.com/jeongho77/android_FinalPjt/assets/115057094/ab1856cd-21e5-4f26-b2f5-947d2da54c55)
+
 
 
 # 파이어베이스 연동법
