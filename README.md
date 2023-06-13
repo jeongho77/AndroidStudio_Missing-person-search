@@ -11,8 +11,17 @@
 
  ![image](https://github.com/jeongho77/android_FinalPjt/assets/115057094/4c182d39-59ec-4578-a740-ff253a22cb8b)
 
-      
-      
+# 중요 액티비티
+
+# 회원 수정
+![회운수정](https://github.com/jeongho77/android_FinalPjt/assets/115057094/13f28135-57f4-407e-86d1-414e0fb1399a)
+
+# 실종자 검색
+![SELECT](https://github.com/jeongho77/android_FinalPjt/assets/115057094/25d24ae0-7b4c-4ac0-8a52-fc260817681b)
+
+# 예방수칙
+![예빵수친](https://github.com/jeongho77/android_FinalPjt/assets/115057094/b0c83468-a25f-4ff6-b0aa-6810523a00ae)
+
 # 오픈소스 : 경찰청 실종자 정보 조회 템플릿 https://www.safe182.go.kr/home/api/guide4.do
 
 
