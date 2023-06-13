@@ -31,11 +31,11 @@
 
 # 오픈소스
 경찰청 실종자 정보 조회 템플릿 https://www.safe182.go.kr/home/api/guide4.do
-[Android] 안드로이드 액티비티간의 데이터 전달 (intent 사용법) - 1 :: Ailyn의 기술 블로그 (tistory.com) – 데이터 전달하기Firebase 사용법 - 초간단 Firebase 사용해 보기 (richwind.co.kr)-파이어베이스 사용법
-[Android/Kotiln] style.xml(스타일 및 테마)를 활용하여 속성 설정하기 — yellowgreenblue (tistory.com) – 디자인 활용법
-![image](https://github.com/jeongho77/android_FinalPjt/assets/115057094/ab1856cd-21e5-4f26-b2f5-947d2da54c55)
 
+intent 사용법 - https://aileen93.tistory.com/4#:~:text=%5BAndroid%5D%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EA%B0%84%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EB%8B%AC%20%28intent%20%EC%82%AC%EC%9A%A9%EB%B2%95%29%20-,%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0%20...%203%203%29%20Intent%EB%A1%9C%20%EC%A0%84%EB%8B%AC%EB%B0%9B%EC%9D%80%20%EA%B0%9D%EC%B2%B4%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0
 
+파이어베이스 사용법
+https://richwind.co.kr/83#:~:text=1%201.%20firebase%20%EA%B0%80%EC%9E%85%20https%3A%2F%2Fconsole.firebase.google.com%20%EC%9C%BC%EB%A1%9C%20%EB%B0%A9%EB%AC%B8%ED%95%98%EC%85%94%EC%84%9C%20firebase,%EC%95%B1%20%EC%A0%91%EC%86%8D%20%EB%B0%8F%20%EC%97%B0%EB%8F%99%20%EA%B2%B0%EA%B3%BC%20%ED%99%95%EC%9D%B8%20%ED%95%98%EA%B8%B0%20
 
 # 파이어베이스 연동법
 ![image](https://github.com/jeongho77/android_FinalPjt/assets/115057094/c2b4303c-93ff-46c3-aab3-af29c32d7294)
