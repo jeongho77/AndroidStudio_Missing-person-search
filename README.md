@@ -23,9 +23,6 @@
 # 회원 수정
 ![회운수정](https://github.com/jeongho77/android_FinalPjt/assets/115057094/13f28135-57f4-407e-86d1-414e0fb1399a)
 
-# 실종자 검색
-![SELECT](https://github.com/jeongho77/android_FinalPjt/assets/115057094/25d24ae0-7b4c-4ac0-8a52-fc260817681b)
-
 # 예방수칙
 ![예빵수친](https://github.com/jeongho77/android_FinalPjt/assets/115057094/b0c83468-a25f-4ff6-b0aa-6810523a00ae)
 
