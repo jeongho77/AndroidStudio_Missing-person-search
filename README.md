@@ -8,6 +8,9 @@
 경찰청 실종자 정보 오픈 소스를 사용하여서 신상과 사진, 인상착의가 나온 정보들을 얻어 <br>
 사람들이 알아보고 실종자를 찾을 수 있게끔 조금이라도 더 볼수있게끔 목적하기위해 앱을 제작하였습니다. <br>
 이 외에는 실종 예방수칙, 신고하기, firebase를 이용한 로그인과 회원가입을 구현하였습니다. <br>
+
+## 프로젝트 시연영상 링크 ##
+https://www.youtube.com/watch?v=XRMHV6Qy2uY
                 
 # 프로젝트 설명 PPT                
 ![image](https://github.com/jeongho77/android_FinalPjt/assets/115057094/bdd1e1a6-2ec2-4068-81ae-97ed9fe9d809)
